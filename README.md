@@ -6,7 +6,7 @@ Users can search for a city and instantly view its current temperature, weather 
 
 ## 🚀 Live Demo
 
-🔗 **Live Demo:** Add your Vercel deployment link here
+🔗 **Live Demo:**https://weather-app-ec1y.vercel.app/
 
 ## 📌 Features
 
